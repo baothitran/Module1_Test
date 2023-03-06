@@ -10,7 +10,7 @@ function isExistedInArray(number, numberArray) {
     } else console.log("Số đã cho có nằm trong mảng đã nhập");
 }
 
-let num = 9;
+let num = 13;
 let numberArr = [3,9,12,26,25];
 
 isExistedInArray(num,numberArr);

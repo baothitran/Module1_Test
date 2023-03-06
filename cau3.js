@@ -11,9 +11,9 @@ function countVowel(array) {
         }
     }
     if (count == 0) {
-        return ("Không có ký tự nguyên âm trong chuỗi đã cho");
+        return "Không có ký tự nguyên âm trong chuỗi đã cho";
     } else {
-        return (`Số ký tự nguyên âm trong chuỗi đã cho là ${count}`);
+        return `Số ký tự nguyên âm trong chuỗi đã cho là ${count}`;
     }
 }
 
